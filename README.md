@@ -45,4 +45,4 @@ PYTHON-PORTFOLIO-TRACKER/
 ```
 
 ## Example Output
-![Portfolio Tracker Example](images/pf_value_overtime.png)
+![Portfolio Tracker Example](../images/pf_value_overtime.png)
