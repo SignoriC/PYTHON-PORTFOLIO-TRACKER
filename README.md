@@ -4,7 +4,7 @@ A personal investment portfolio tracker built in Python using Jupyter Notebooks.
 
 
 
-## 🧰 Tech Stack & Libraries
+## Technologies & Libraries
 
 - **Python**
 - **Jupyter Notebooks**
