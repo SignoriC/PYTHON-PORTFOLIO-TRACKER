@@ -31,7 +31,7 @@ A personal investment portfolio tracker built in Python using Jupyter Notebooks.
 ```text
 PYTHON-PORTFOLIO-TRACKER/
 │
-├── data/                                 # Contains user transaction xlsx
+├── data/                                 # Contains user transaction .xlsx and .csv
 ├── images/                               # Sample output plots and screenshots
 │
 ├── notebooks/
