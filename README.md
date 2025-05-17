@@ -1,6 +1,6 @@
 # 📈 PYTHON-PORTFOLIO-TRACKER
 
-A personal investment portfolio tracker built in Python using Jupyter Notebooks. This project monitors ETF and ETC investments over time, combining financial data ingestion, accounting, analysis, and visualization—all from raw transactions to performance charts.
+A personal investment portfolio tracker built in Python using Jupyter Notebooks. This project monitors ETF and ETC investments over time, combining financial data ingestion, accounting, analysis, and visualization — all from raw transactions to performance charts.
 
 
 
