@@ -15,7 +15,7 @@ A personal investment portfolio tracker built in Python using Jupyter Notebooks.
 
 
 
-## 🚀 Key Features
+## Features
 
 - 📄 Load and parse personal transaction history
 - 💰 Track invested capital over time for each asset
@@ -26,7 +26,7 @@ A personal investment portfolio tracker built in Python using Jupyter Notebooks.
 
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 PYTHON-PORTFOLIO-TRACKER/
